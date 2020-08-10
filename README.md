@@ -10,7 +10,7 @@
 
 - Add topic and fileName to the url ie. /note/{topic}/{fileName}
 
-![image](./img/de;ete-note.png)
+![image](./img/delete-note.png)
 
 ### To UPDATE a note with the PATCH request
 
